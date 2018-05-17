@@ -1,0 +1,65 @@
+
+.container {
+    color: aliceblue;
+    width: 970px;
+    height: 1000px;
+    margin: 0px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background: radial-gradient(#351d39, #000000 )
+}
+.group1{
+    color: aliceblue;
+    width: 970px;
+    height: 1000px;
+    margin: 0px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background:radial-gradient(rgb(37, 37, 37),grey) ;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px; 
+}
+.group2{
+    color: aliceblue;
+    width: 970px;
+    height: 1000px;
+    margin: 0px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: bottom;
+    background:radial-gradient(rgb(37, 37, 37),grey) ;
+}
+
+.header {
+    width: 970px;
+    height:60px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+    align-content:right;
+    font-size: 40px; 
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.footer{
+    width: 970px;
+    height:40px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: grey
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.column {
+    
+    width: 30%;
+    padding: 10px;
+    height: 80px;
